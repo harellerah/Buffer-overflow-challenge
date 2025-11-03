@@ -18,6 +18,3 @@ A little fun challenge to test your hacking skills
      2. Use a1 gadgets to write into writable memory.
      3. Use printf to print from the address we wrote to your ID.
      4. Exit the program.
-
-# Solution:
-  For ID 123456789. The string will be: 31323334353637383900000000000000A905460008FF1900AB054600DCFE1900AD05460000084600
